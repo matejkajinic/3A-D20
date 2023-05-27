@@ -1,0 +1,2 @@
+Date,Total Word Count,Correct Word Count,Word Accuracy,Total Letter Count,Correct Letter Count,Letter Accuracy,Eng_Acc,Enm_Acc,Ita_Acc,Ita_Old_Acc,Lat_Acc,Orig_Gray_Acc,Thresh_Acc,Deskew_Acc
+2020-08-01,112,46,41.07%,477,372,77.99%,21.43%,30.36%,24.11%,26.79%,18.75%,19.29%,19.64%,20.0%
